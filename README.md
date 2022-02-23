@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pcode2erick
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning react JS
+- 🌱 I’m currently learning react JS,react native, nextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
